@@ -1,2 +1,2 @@
 # GraphDrift
-College major project for context graoh based delegation and authorization drift in multi agent orchestrator based LLMs
+College major project for context graph based delegation and authorization drift in multi agent orchestrator based LLMs
